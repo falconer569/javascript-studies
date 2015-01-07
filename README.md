@@ -1,0 +1,3 @@
+# JavaScript Studies
+
+This repository contains my miscellaneous JavaScript experimentation...
